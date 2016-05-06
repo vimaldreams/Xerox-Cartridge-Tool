@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Xerox Cartridges Savings Tool</title>
+    <link href="Styles/tool.css" type="text/css" rel="stylesheet" />
+    <script type="text/javascript" src="Scripts/jquery-1.4.1.js"></script>
+    <script type="text/javascript" src="Scripts/tool.js"></script>
+    <script type="text/javascript" src="Scripts/Reseller.js"></script>
+</head>
+    <body>
+    <div id="divcalculation">
+       <table id="tbcalc" style="table-layout: auto" width="980px">
+           <tr>
+               <td>
+                   <div>
+                       <img src="Images/YourLogo.jpg" class="module your_logo" alt="Your Logo" />
+                       <img src="Images/reseller-logo-en.jpg" class="module xerox_logo" alt="Reseller Logo" /></div>
+               </td>
+           </tr>
+           <tr>
+               <td>
+                   <div class="templatepage backimage">
+                       <div>
+                           <table width="800px" class="tbtopheader">
+                               <tr class="headertext">
+                                   <td >
+                                       <a class="replayintro" href="Tool.htm">
+                                           <img src="Images/replay-en.png" alt="plusimage" />
+                                       </a>
+                                       <span id="headerleftttext">Calculate your savings now <br/>
+                                           <strong class="savingstext">Savings calculated by comparing page yields<br/>
+                                                                         and cartridge costs</strong>
+                                       </span>
+                                   </td>
+                                   <td>
+                                       <img src="Images/icon.png" alt="totalicon" style="padding-right: 5px;" />
+                                   </td>
+                                   <td id="exptotsave">
+                                       <span>Expected total monthly savings</span>
+                                   </td>
+                                   <td>
+                                       <input type="text" id="lbltotalsavings" style="width: 200px; height: auto;" />
+                                   </td>
+                               </tr>
+                           </table>
+                       </div>
+                       <div class="iconlinks">
+                    
+                           <img src="Images/email.jpg" alt="email" />
+                           <a id="emailpage" href="javascript:void(null)" onclick="emailclick()"><span class="userdetails">Email savings</span></a><br />
+                       
+                           <img src="Images/print.jpg" alt="print" />
+                           <a href="javascript:window.print()"><span class="userdetails">Print this page</span></a><br />
+                     
+                           <img src="Images/phone.jpg" alt="phone" />
+                           <span id="contactus" class="userdetails" >Contact</span>
+                       
+                       </div>
+                       <br />
+                       <div class="errortext" style="text-align: center;"></div>
+                       <br/>
+                       <div class="userselection">
+                           <div class="headerselection">
+                               <img src="Images/arrow.png" alt="arrowimage" class="arrow" />
+                               <div class="selection1">
+                                   <select name="manufacturer" id="manufacturer" class="dropdown" onchange="LoadModelDropDown();">
+                                       <option selected="selected" value="0">Printer Brand</option>
+                                   </select>
+                               </div>
+                               <div class="selection2">
+                                   <select name="model" id="model" class="dropdown" onchange="LoadOEMPartDropDown();">
+                                       <option selected="selected" value="0">Printer Model</option>
+                                   </select>
+                               </div>
+                               <div class="selection3">
+                                   <select name="tonercode" id="tonercode" class="dropdown">
+                                       <option selected="selected" value="0">OEM Toner Code</option>
+                                   </select>
+                               </div>
+                               <!--<div class="addselection" onclick=" return AddUserSelection();">
+                                       <img src="Images/add-part-en.jpg" alt="plusimage" />
+                                       <label class="addpart">
+                                           Add part</label>
+                                   </div>-->
+                               <a class="addselection" href="/" onclick=" return AddUserSelection();">
+                                   <img src="Images/add-part-en.png" alt="plusimage" />
+                               </a>
+                           </div>
+                       </div>
+                       <div class="divselectedrows">
+                           <table id="tbselectedrows" class="tbselectedrows">
+                               <tr class="trheader">
+                                   <th class="thmanufacturer">
+                                       Printer Brand
+                                   </th>
+                                   <th class="thmodel">
+                                       Printer Model
+                                   </th>
+                                   <th class="thpartnumber">
+                                       OEM Toner Code
+                                   </th>
+                                   <th class="thcartridge">
+                                       Cartridges per month
+                                   </th>
+                                   <th class="thmonthlysaving">
+                                       Expected monthly saving
+                                   </th>
+                                   <th class="thdelete">
+                                   </th>
+                               </tr>
+                               
+                               <tr id="trappendedrow" style="display: none;">
+                                   <td class="tdmanufacturer">
+                                       <label></label>
+                                   </td>
+                                   <td class="tdmodel">
+                                       <label></label>
+                                   </td>
+                                   <td class="tdpartnumber">
+                                       <label></label>
+                                   </td>
+                                   <td class="tdcartridge">
+                                       <img id="tdcartridgeminus" alt="" src="Images/small-minus.png"/>
+                                       <input id="cartridgesselection" type="text" class="cartridgesselection" onblur="javascript:return OnchangeCalculation();"/>
+                                       <img id="tdcartridgeplus" alt="" src="Images/small-plus.png"/>
+                                   </td>
+                                 <!--  <td class="tdxrccost">
+                                       <label></label>
+                                   </td>-->
+                                   <td class="tdmonthlysaving">
+                                       <label></label>
+                                   </td>
+                                   <td class="tddelete">
+                                        <img id="tddeleterow" alt="" src="Images/delete.png"/>
+                                   </td>
+                               </tr>
+                           </table>
+                        
+                       </div>
+                   </div>
+               </td>
+           </tr>
+       </table>
+    </div> 
+    </body>
+</html>

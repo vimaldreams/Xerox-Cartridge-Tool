@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\_Development\Deploy\Xerox\VPSupplierTool" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/XeroxVPTool.pdb" publishTime="11/27/2012 11:54:06" />
+    <file relUrl="Images/reseller-logo-en.jpg" publishTime="09/13/2012 09:41:07" />
+    <file relUrl="Tool.htm" publishTime="10/17/2012 11:05:12" />
+    <file relUrl="Images/selection-bar-1.jpg" publishTime="09/05/2012 15:11:35" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="08/28/2012 15:21:22" />
+    <file relUrl="Images/resultsbar.jpg" publishTime="09/05/2012 15:12:17" />
+    <file relUrl="Images/small-plus.png" publishTime="09/05/2012 15:02:53" />
+    <file relUrl="Scripts/tool.js" publishTime="11/27/2012 11:56:29" />
+    <file relUrl="Images/YourLogo.jpg" publishTime="09/13/2012 09:40:58" />
+    <file relUrl="Styles/tool.css" publishTime="10/31/2012 14:10:03" />
+    <file relUrl="Images/plus.png" publishTime="09/05/2012 15:02:04" />
+    <file relUrl="Images/email.jpg" publishTime="10/02/2012 16:00:20" />
+    <file relUrl="Images/replay-en.png" publishTime="09/21/2012 16:17:58" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="08/28/2012 15:21:02" />
+    <file relUrl="Images/small-minus.png" publishTime="09/05/2012 15:02:32" />
+    <file relUrl="Images/delete.png" publishTime="09/05/2012 15:03:12" />
+    <file relUrl="Reseller.xml" publishTime="10/23/2012 09:57:19" />
+    <file relUrl="Images/print.jpg" publishTime="10/02/2012 16:00:27" />
+    <file relUrl="Scripts/Reseller.js" publishTime="11/27/2012 11:53:36" />
+    <file relUrl="ResellerCalc.htm" publishTime="11/27/2012 11:56:31" />
+    <file relUrl="Images/calculate-en.jpg" publishTime="09/14/2012 09:13:08" />
+    <file relUrl="Images/add-part-en.png" publishTime="09/21/2012 16:17:58" />
+    <file relUrl="Images/icon.png" publishTime="09/05/2012 15:01:14" />
+    <file relUrl="Images/arrow.png" publishTime="09/05/2012 15:25:40" />
+    <file relUrl="Images/calculate.jpg" publishTime="09/14/2012 08:36:30" />
+    <file relUrl="bin/XeroxVPTool.dll" publishTime="11/27/2012 11:54:07" />
+    <file relUrl="Images/phone.jpg" publishTime="10/02/2012 16:00:24" />
+    <file relUrl="Images/base.jpg" publishTime="09/21/2012 09:53:45" />
+  </publishProfile>
+</publishData>

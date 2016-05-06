@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Reseller>
+  <UserDetails Currency="€" CurrencySymbol="No" ContactNumber="171873612" />
+  <Manufacturer value="HP Mono">
+    <Model value="LJ 4, 4m series">
+      <PartNumber OEMPartNumber="92298A black" XRCPartNumber="003R93518" OEMCartridge="6800" XRCCartridge="7300" OEMCost="78.16666" XRCCost="58.625" />
+    </Model>
+    <Model value="LJ 5, 5m, 5n, 5se series">
+      <PartNumber OEMPartNumber="92298A black" XRCPartNumber="003R93518" OEMCartridge="6800" XRCCartridge="7300" OEMCost="78.16666" XRCCost="58.625" />
+    </Model>
+    <Model value="LJ 4, 4m series">
+      <PartNumber OEMPartNumber="92298X black high yield" XRCPartNumber="003R97029" OEMCartridge="8800" XRCCartridge="9800" OEMCost="75" XRCCost="56.25" />
+    </Model>
+    <Model value="LJ 5, 5m, 5n, 5se series">
+      <PartNumber OEMPartNumber="92298X black high yield" XRCPartNumber="003R97029" OEMCartridge="8800" XRCCartridge="9800" OEMCost="75" XRCCost="56.25" />
+    </Model>
+    <Model value="LJ 4L, 4m, 4p series">
+      <PartNumber OEMPartNumber="92274A black" XRCPartNumber="003R94299" OEMCartridge="3350" XRCCartridge="3600" OEMCost="69.16666" XRCCost="51.875" />
+    </Model>
+    <Model value="LJ 5L series">
+      <PartNumber OEMPartNumber="C3906A black" XRCPartNumber="003R99629" OEMCartridge="2500" XRCCartridge="3600" OEMCost="50.43333" XRCCost="37.825" />
+    </Model>
+    <Model value="LJ 6L series">
+      <PartNumber OEMPartNumber="C3906A black" XRCPartNumber="003R99629" OEMCartridge="2500" XRCCartridge="3600" OEMCost="50.43333" XRCCost="37.825" />
+    </Model>
+    <Model value="LJ 3100, 3150 series">
+      <PartNumber OEMPartNumber="C3906A black" XRCPartNumber="003R99629" OEMCartridge="2500" XRCCartridge="3600" OEMCost="50.43333" XRCCost="37.825" />
+    </Model>
+    <Model value="LJ 5p, 5mp series">
+      <PartNumber OEMPartNumber="C3903A black" XRCPartNumber="003R94398" OEMCartridge="4000" XRCCartridge="4000" OEMCost="66.75" XRCCost="50.06667" />
+    </Model>
+    <Model value="LJ 6p, 6mp series">
+      <PartNumber OEMPartNumber="C3903A black" XRCPartNumber="003R94398" OEMCartridge="4000" XRCCartridge="4000" OEMCost="66.75" XRCCost="50.06667" />
+    </Model>
+    <Model value="LJ 5SI series">
+      <PartNumber OEMPartNumber="C3909A black" XRCPartNumber="003R94397" OEMCartridge="15000" XRCCartridge="16500" OEMCost="142.75" XRCCost="107.0667" />
+    </Model>
+    <Model value="LJ 1010/12/15/18/20/22 series">
+      <PartNumber OEMPartNumber="Q2612A black" XRCPartNumber="003R99628" OEMCartridge="2000" XRCCartridge="2300" OEMCost="49.16667" XRCCost="36.875" />
+    </Model>
+    <Model value="LJ 3015/20/30/50/52/55 series">
+      <PartNumber OEMPartNumber="Q2612A black" XRCPartNumber="003R99628" OEMCartridge="2000" XRCCartridge="2300" OEMCost="49.16667" XRCCost="36.875" />
+    </Model>
+    <Model value="LJ 1100 series">
+      <PartNumber OEMPartNumber="C4092A black" XRCPartNumber="003R99630" OEMCartridge="2500" XRCCartridge="3600" OEMCost="43.93333" XRCCost="32.95" />
+    </Model>
+    <Model value="LJ 3200/3220 series">
+      <PartNumber OEMPartNumber="C4092A black" XRCPartNumber="003R99630" OEMCartridge="2500" XRCCartridge="3600" OEMCost="43.93333" XRCCost="32.95" />
+    </Model>
+    <Model value="LJ 1150 series">
+      <PartNumber OEMPartNumber="Q2624X black high yield" XRCPartNumber="003R99608" OEMCartridge="4000" XRCCartridge="6300" OEMCost="63.05833" XRCCost="47.29167" />
+    </Model>
+    <Model value="LJ 1160 series">
+      <PartNumber OEMPartNumber="Q5949A black" XRCPartNumber="003R99633" OEMCartridge="2500" XRCCartridge="3600" OEMCost="56.625" XRCCost="42.46667" />
+    </Model>
+    <Model value="LJ 1320 series">
+      <PartNumber OEMPartNumber="Q5949A black" XRCPartNumber="003R99633" OEMCartridge="2500" XRCCartridge="3600" OEMCost="56.625" XRCCost="42.46667" />
+    </Model>
+    <Model value="LJ 3390, 3392 series">
+      <PartNumber OEMPartNumber="Q5949A black" XRCPartNumber="003R99633" OEMCartridge="2500" XRCCartridge="3600" OEMCost="56.625" XRCCost="42.46667" />
+    </Model>
+    <Model value="LJ 1320 series">
+      <PartNumber OEMPartNumber="Q5949X black high yield" XRCPartNumber="003R99731" OEMCartridge="6000" XRCCartridge="6400" OEMCost="97.08334" XRCCost="72.81667" />
+    </Model>
+    <Model value="LJ 3390, 3392 series">
+      <PartNumber OEMPartNumber="Q5949X black high yield" XRCPartNumber="003R99731" OEMCartridge="6000" XRCCartridge="6400" OEMCost="97.08334" XRCCost="72.81667" />
+    </Model>
+    <Model value="LJ 1000 series">
+      <PartNumber OEMPartNumber="C7115X black high yield" XRCPartNumber="003R99600" OEMCartridge="3500" XRCCartridge="5900" OEMCost="54.16667" XRCCost="40.625" />
+    </Model>
+    <Model value="LJ 1200/20 series">
+      <PartNumber OEMPartNumber="C7115X black high yield" XRCPartNumber="003R99600" OEMCartridge="3500" XRCCartridge="5900" OEMCost="54.16667" XRCCost="40.625" />
+    </Model>
+    <Model value="LJ 3300/10/20/30 series">
+      <PartNumber OEMPartNumber="C7115X black high yield" XRCPartNumber="003R99600" OEMCartridge="3500" XRCCartridge="5900" OEMCost="54.16667" XRCCost="40.625" />
+    </Model>
+    <Model value="LJ 3380 series">
+      <PartNumber OEMPartNumber="C7115X black high yield" XRCPartNumber="003R99600" OEMCartridge="3500" XRCCartridge="5900" OEMCost="54.16667" XRCCost="40.625" />
+    </Model>
+    <Model value="LJ 1300 series">
+      <PartNumber OEMPartNumber="Q2613X black high yield" XRCPartNumber="003R99607" OEMCartridge="4000" XRCCartridge="6700" OEMCost="66.325" XRCCost="49.74166" />
+    </Model>
+    <Model value="LJ 2100, 2200 series">
+      <PartNumber OEMPartNumber="C4096A black" XRCPartNumber="003R97329" OEMCartridge="5000" XRCCartridge="7200" OEMCost="74.5" XRCCost="55.875" />
+    </Model>
+    <Model value="LJ 2300 series">
+      <PartNumber OEMPartNumber="Q2610A black" XRCPartNumber="003R99617" OEMCartridge="6000" XRCCartridge="8100" OEMCost="87.83334" XRCCost="65.875" />
+    </Model>
+    <Model value="LJ 2400/10/20/30 series">
+      <PartNumber OEMPartNumber="Q6511X black high yield" XRCPartNumber="003R99632" OEMCartridge="12000" XRCCartridge="12800" OEMCost="146.6667" XRCCost="110" />
+    </Model>
+    <Model value="LJ 4000, 4050 series">
+      <PartNumber OEMPartNumber="C4127X black high yield" XRCPartNumber="003R95921" OEMCartridge="10000" XRCCartridge="14100" OEMCost="94.8" XRCCost="71.1" />
+    </Model>
+    <Model value="LJ 4100 series">
+      <PartNumber OEMPartNumber="C8061X black high yield" XRCPartNumber="003R99601" OEMCartridge="10000" XRCCartridge="10200" OEMCost="94.8" XRCCost="71.1" />
+    </Model>
+    <Model value="LJ 4200 series">
+      <PartNumber OEMPartNumber="Q1338A black" XRCPartNumber="003R99616" OEMCartridge="12000" XRCCartridge="14800" OEMCost="108.3333" XRCCost="81.25" />
+    </Model>
+    <Model value="LJ 4240/50, 4350 series">
+      <PartNumber OEMPartNumber="Q5942A black" XRCPartNumber="106R02338" OEMCartridge="10000" XRCCartridge="11300" OEMCost="97.5" XRCCost="73.125" />
+      <PartNumber OEMPartNumber="Q5942X black high yield" XRCPartNumber="003R99623" OEMCartridge="20000" XRCCartridge="22900" OEMCost="159.1667" XRCCost="119.375" />
+    </Model>
+    <Model value="LJ 4300, 4345 series">
+      <PartNumber OEMPartNumber="Q1339A black" XRCPartNumber="003R99615" OEMCartridge="18000" XRCCartridge="19800" OEMCost="143.3333" XRCCost="107.5" />
+    </Model>
+    <Model value="LJ 5000, 5100 series">
+      <PartNumber OEMPartNumber="C4129X black high yield" XRCPartNumber="003R97026" OEMCartridge="10000" XRCCartridge="14400" OEMCost="121.7083" XRCCost="91.28333" />
+    </Model>
+    <Model value="LJ 5200 series">
+      <PartNumber OEMPartNumber="Q7516A black" XRCPartNumber="003R99765" OEMCartridge="12000" XRCCartridge="12000" OEMCost="128.3333" XRCCost="96.25" />
+    </Model>
+    <Model value="LJ 8100, 8150 series">
+      <PartNumber OEMPartNumber="C4182X black high yield" XRCPartNumber="003R97027" OEMCartridge="20000" XRCCartridge="20000" OEMCost="140" XRCCost="105" />
+    </Model>
+    <Model value="LJ 9000, 9040, 9050 series">
+      <PartNumber OEMPartNumber="C8543X black high yield" XRCPartNumber="003R99622" OEMCartridge="30000" XRCCartridge="33000" OEMCost="194.1667" XRCCost="145.625" />
+    </Model>
+    <Model value="LJ P1005, P1006, P1007, P1008">
+      <PartNumber OEMPartNumber="CB435A black" XRCPartNumber="003R99777" OEMCartridge="1500" XRCCartridge="1700" OEMCost="46.66667" XRCCost="35" />
+    </Model>
+    <Model value="LJ P1102, M1102, M1212/14/17 ">
+      <PartNumber OEMPartNumber="CE285A black" XRCPartNumber="106R02156" OEMCartridge="1600" XRCCartridge="1800" OEMCost="46.25" XRCCost="34.69167" />
+    </Model>
+    <Model value="LJ M1120, P1505, M1522">
+      <PartNumber OEMPartNumber="CB436A black" XRCPartNumber="003R99778" OEMCartridge="2000" XRCCartridge="2600" OEMCost="51.91667" XRCCost="38.94167" />
+    </Model>
+    <Model value="LJ M1536, P1566, P1606">
+      <PartNumber OEMPartNumber="CE278A black" XRCPartNumber="106R02157" OEMCartridge="2100" XRCCartridge="2300" OEMCost="52.08333" XRCCost="39.06667" />
+    </Model>
+    <Model value="LJ P2014, P2015">
+      <PartNumber OEMPartNumber=" Q7553A black" XRCPartNumber="106R02339" OEMCartridge="3000" XRCCartridge="3700" OEMCost="53.33333" XRCCost="40" />
+    </Model>
+    <Model value="LJ P2014, P2016">
+      <PartNumber OEMPartNumber="Q7553X black high yield" XRCPartNumber="003R99763" OEMCartridge="7000" XRCCartridge="8200" OEMCost="104.1667" XRCCost="78.125" />
+    </Model>
+    <Model value="LJ P2035, P2055 series">
+      <PartNumber OEMPartNumber="CE505A black" XRCPartNumber="003R99807" OEMCartridge="2300" XRCCartridge="3400" OEMCost="56.25" XRCCost="42.19167" />
+    </Model>
+    <Model value="LJ P2055 series">
+      <PartNumber OEMPartNumber="CE505X black high yield" XRCPartNumber="003R99808" OEMCartridge="6500" XRCCartridge="7500" OEMCost="102.75" XRCCost="77.06667" />
+    </Model>
+    <Model value="LJ M2727">
+      <PartNumber OEMPartNumber=" Q7553A black" XRCPartNumber="106R02339" OEMCartridge="3000" XRCCartridge="3700" OEMCost="53.33333" XRCCost="40" />
+      <PartNumber OEMPartNumber="Q7553X black high yield" XRCPartNumber="003R99763" OEMCartridge="7000" XRCCartridge="8200" OEMCost="104.1667" XRCCost="78.125" />
+    </Model>
+    <Model value="LJ P3005">
+      <PartNumber OEMPartNumber="Q7551X black high yield" XRCPartNumber="003R99764" OEMCartridge="13000" XRCCartridge="14000" OEMCost="153.3333" XRCCost="115" />
+    </Model>
+    <Model value="LJ P3015 series">
+      <PartNumber OEMPartNumber="CE255A black" XRCPartNumber="106R01621" OEMCartridge="6000" XRCCartridge="6000" OEMCost="92.5" XRCCost="69.375" />
+      <PartNumber OEMPartNumber="CE255X black high yield" XRCPartNumber="106R01622" OEMCartridge="12500" XRCCartridge="17700" OEMCost="144.1667" XRCCost="108.125" />
+    </Model>
+    <Model value="LJ M3027, M3035">
+      <PartNumber OEMPartNumber="Q7551X black high yield" XRCPartNumber="003R99764" OEMCartridge="13000" XRCCartridge="14000" OEMCost="153.3333" XRCCost="115" />
+    </Model>
+    <Model value="LJ P4014, P4015, P4515 series">
+      <PartNumber OEMPartNumber="CC364A black" XRCPartNumber="003R99790" OEMCartridge="10000" XRCCartridge="15300" OEMCost="109.1667" XRCCost="81.875" />
+    </Model>
+    <Model value="LJ P4015, P4515 series">
+      <PartNumber OEMPartNumber="CC364X black high yield" XRCPartNumber="003R99791" OEMCartridge="24000" XRCCartridge="27600" OEMCost="194.1667" XRCCost="145.625" />
+    </Model>
+    <Model value="LJ M4555">
+      <PartNumber OEMPartNumber="CE390A black" XRCPartNumber="106R02631" OEMCartridge="10000" XRCCartridge="10000" OEMCost="105.7667" XRCCost="79.325" />
+      <PartNumber OEMPartNumber="CE390X black high yield" XRCPartNumber="106R02632" OEMCartridge="24000" XRCCartridge="24000" OEMCost="176.0583" XRCCost="132.0417" />
+    </Model>
+  </Manufacturer>
+  <Manufacturer value="HP Color">
+    <Model value="CLJ 1500 series">
+      <PartNumber OEMPartNumber="C9700A/Q3960A black" XRCPartNumber="003R99720" OEMCartridge="5000" XRCCartridge="5000" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="C9701A/Q3961A cyan" XRCPartNumber="003R99719" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+      <PartNumber OEMPartNumber="C9702A/Q3962A yellow" XRCPartNumber="003R99718" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+      <PartNumber OEMPartNumber="C9703A/Q3963A magenta" XRCPartNumber="003R99717" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+    </Model>
+    <Model value="CLJ 2500/2550 series">
+      <PartNumber OEMPartNumber="C9700A/Q3960A black" XRCPartNumber="003R99720" OEMCartridge="5000" XRCCartridge="5000" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="C9701A/Q3961A cyan" XRCPartNumber="003R99719" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+      <PartNumber OEMPartNumber="C9702A/Q3962A yellow" XRCPartNumber="003R99718" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+      <PartNumber OEMPartNumber="C9703A/Q3963A magenta" XRCPartNumber="003R99717" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+    </Model>
+    <Model value="CLJ 2800 series">
+      <PartNumber OEMPartNumber="C9700A/Q3960A black" XRCPartNumber="003R99720" OEMCartridge="5000" XRCCartridge="5000" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="C9701A/Q3961A cyan" XRCPartNumber="003R99719" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+      <PartNumber OEMPartNumber="C9702A/Q3962A yellow" XRCPartNumber="003R99718" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+      <PartNumber OEMPartNumber="C9703A/Q3963A magenta" XRCPartNumber="003R99717" OEMCartridge="4000" XRCCartridge="4000" OEMCost="70.41666" XRCCost="52.81667" />
+    </Model>
+    <Model value="CLJ 1600 series">
+      <PartNumber OEMPartNumber="Q6000A black" XRCPartNumber="003R99768" OEMCartridge="2500" XRCCartridge="3100" OEMCost="53.75" XRCCost="40.31667" />
+      <PartNumber OEMPartNumber="Q6001A cyan" XRCPartNumber="003R99769" OEMCartridge="2000" XRCCartridge="3300" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="Q6002A yellow" XRCPartNumber="003R99770" OEMCartridge="2000" XRCCartridge="3300" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="Q6003A magenta" XRCPartNumber="003R99771" OEMCartridge="2000" XRCCartridge="3300" OEMCost="58.75" XRCCost="44.06667" />
+    </Model>
+    <Model value="CLJ 2600 series">
+      <PartNumber OEMPartNumber="Q6000A black" XRCPartNumber="003R99768" OEMCartridge="2500" XRCCartridge="3100" OEMCost="53.75" XRCCost="40.31667" />
+      <PartNumber OEMPartNumber="Q6001A cyan" XRCPartNumber="003R99769" OEMCartridge="2000" XRCCartridge="3300" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="Q6002A yellow" XRCPartNumber="003R99770" OEMCartridge="2000" XRCCartridge="3300" OEMCost="58.75" XRCCost="44.06667" />
+      <PartNumber OEMPartNumber="Q6003A magenta" XRCPartNumber="003R99771" OEMCartridge="2000" XRCCartridge="3300" OEMCost="58.75" XRCCost="44.06667" />
+    </Model>
+    <Model value="CLJ 2700 series">
+      <PartNumber OEMPartNumber="Q7560A black" XRCPartNumber="003R99755" OEMCartridge="6500" XRCCartridge="6500" OEMCost="94.16666" XRCCost="70.625" />
+      <PartNumber OEMPartNumber="Q7561A cyan" XRCPartNumber="003R99756" OEMCartridge="3500" XRCCartridge="3500" OEMCost="90.83334" XRCCost="68.125" />
+      <PartNumber OEMPartNumber="Q7562A yellow" XRCPartNumber="003R99757" OEMCartridge="3500" XRCCartridge="3500" OEMCost="90.83334" XRCCost="68.125" />
+      <PartNumber OEMPartNumber="Q7563A magenta" XRCPartNumber="003R99758" OEMCartridge="3500" XRCCartridge="3500" OEMCost="90.83334" XRCCost="68.125" />
+    </Model>
+    <Model value="CLJ 3000 series">
+      <PartNumber OEMPartNumber="Q7560A black" XRCPartNumber="003R99755" OEMCartridge="6500" XRCCartridge="6500" OEMCost="94.16666" XRCCost="70.625" />
+      <PartNumber OEMPartNumber="Q7561A cyan" XRCPartNumber="003R99756" OEMCartridge="3500" XRCCartridge="3500" OEMCost="90.83334" XRCCost="68.125" />
+      <PartNumber OEMPartNumber="Q7562A yellow" XRCPartNumber="003R99757" OEMCartridge="3500" XRCCartridge="3500" OEMCost="90.83334" XRCCost="68.125" />
+      <PartNumber OEMPartNumber="Q7563A magenta" XRCPartNumber="003R99758" OEMCartridge="3500" XRCCartridge="3500" OEMCost="90.83334" XRCCost="68.125" />
+    </Model>
+    <Model value="CLJ 3500, 3550 series">
+      <PartNumber OEMPartNumber="Q2670A black" XRCPartNumber="003R99634" OEMCartridge="6000" XRCCartridge="6100" OEMCost="93.33334" XRCCost="70" />
+      <PartNumber OEMPartNumber="Q2671A cyan" XRCPartNumber="003R99626" OEMCartridge="4000" XRCCartridge="4500" OEMCost="90.83334" XRCCost="68.125" />
+      <PartNumber OEMPartNumber="Q2672A yellow" XRCPartNumber="003R99625" OEMCartridge="4000" XRCCartridge="4500" OEMCost="90.83334" XRCCost="68.125" />
+      <PartNumber OEMPartNumber="Q2673A magenta" XRCPartNumber="003R99624" OEMCartridge="4000" XRCCartridge="4500" OEMCost="90.83334" XRCCost="68.125" />
+    </Model>
+    <Model value="CLJ 3600 series">
+      <PartNumber OEMPartNumber="Q6470A black" XRCPartNumber="003R99759" OEMCartridge="6000" XRCCartridge="6400" OEMCost="93.33334" XRCCost="70" />
+      <PartNumber OEMPartNumber="Q6471A cyan" XRCPartNumber="003R99752" OEMCartridge="4000" XRCCartridge="6000" OEMCost="92.5" XRCCost="69.375" />
+      <PartNumber OEMPartNumber="Q6472A yellow" XRCPartNumber="003R99753" OEMCartridge="4000" XRCCartridge="6000" OEMCost="92.5" XRCCost="69.375" />
+      <PartNumber OEMPartNumber="Q6473A magenta" XRCPartNumber="003R99754" OEMCartridge="4000" XRCCartridge="6000" OEMCost="92.5" XRCCost="69.375" />
+    </Model>
+    <Model value="CLJ 3700 series">
+      <PartNumber OEMPartNumber="Q2670A black" XRCPartNumber="003R99634" OEMCartridge="6000" XRCCartridge="6100" OEMCost="93.33334" XRCCost="70" />
+      <PartNumber OEMPartNumber="Q2681A cyan" XRCPartNumber="003R99637" OEMCartridge="6000" XRCCartridge="6000" OEMCost="120" XRCCost="90" />
+      <PartNumber OEMPartNumber="Q2682A yellow" XRCPartNumber="003R99636" OEMCartridge="6000" XRCCartridge="6000" OEMCost="120" XRCCost="90" />
+      <PartNumber OEMPartNumber="Q2683A magenta" XRCPartNumber="003R99635" OEMCartridge="6000" XRCCartridge="6000" OEMCost="120" XRCCost="90" />
+    </Model>
+    <Model value="CLJ 3800 series">
+      <PartNumber OEMPartNumber="Q6470A black" XRCPartNumber="003R99759" OEMCartridge="6000" XRCCartridge="6400" OEMCost="93.33334" XRCCost="70" />
+    </Model>
+    <Model value="CLJ CP3505 series">
+      <PartNumber OEMPartNumber="Q6470A black" XRCPartNumber="003R99759" OEMCartridge="6000" XRCCartridge="6400" OEMCost="93.33334" XRCCost="70" />
+    </Model>
+    <Model value="CLJ 3800 series">
+      <PartNumber OEMPartNumber="Q7581A cyan" XRCPartNumber="003R99760" OEMCartridge="6000" XRCCartridge="5990" OEMCost="120" XRCCost="90" />
+      <PartNumber OEMPartNumber="Q7582A yellow" XRCPartNumber="003R99761" OEMCartridge="6000" XRCCartridge="5990" OEMCost="120" XRCCost="90" />
+      <PartNumber OEMPartNumber="Q7583A magenta" XRCPartNumber="003R99762" OEMCartridge="6000" XRCCartridge="5990" OEMCost="120" XRCCost="90" />
+    </Model>
+    <Model value="CLJ CP3505 series">
+      <PartNumber OEMPartNumber="Q7581A cyan" XRCPartNumber="003R99760" OEMCartridge="6000" XRCCartridge="5990" OEMCost="120" XRCCost="90" />
+      <PartNumber OEMPartNumber="Q7582A yellow" XRCPartNumber="003R99761" OEMCartridge="6000" XRCCartridge="5990" OEMCost="120" XRCCost="90" />
+      <PartNumber OEMPartNumber="Q7583A magenta" XRCPartNumber="003R99762" OEMCartridge="6000" XRCCartridge="5990" OEMCost="120" XRCCost="90" />
+    </Model>
+    <Model value="CLJ 4600, 4650 series">
+      <PartNumber OEMPartNumber="C9720A black" XRCPartNumber="003R99618" OEMCartridge="9000" XRCCartridge="9800" OEMCost="115.15" XRCCost="86.36667" />
+      <PartNumber OEMPartNumber="C9721A cyan" XRCPartNumber="003R99619" OEMCartridge="8000" XRCCartridge="9100" OEMCost="155.7667" XRCCost="116.825" />
+      <PartNumber OEMPartNumber="C9722A yellow" XRCPartNumber="003R99620" OEMCartridge="8000" XRCCartridge="9100" OEMCost="155.7667" XRCCost="116.825" />
+      <PartNumber OEMPartNumber="C9723A magenta" XRCPartNumber="003R99621" OEMCartridge="8000" XRCCartridge="9100" OEMCost="155.7667" XRCCost="116.825" />
+    </Model>
+    <Model value="CLJ 4700 series">
+      <PartNumber OEMPartNumber="Q5950A black" XRCPartNumber="003R99736" OEMCartridge="11000" XRCCartridge="13100" OEMCost="125" XRCCost="93.75" />
+      <PartNumber OEMPartNumber="Q5951A cyan" XRCPartNumber="003R99737" OEMCartridge="10000" XRCCartridge="11600" OEMCost="177.5" XRCCost="133.125" />
+      <PartNumber OEMPartNumber="Q5952A yellow" XRCPartNumber="003R99738" OEMCartridge="10000" XRCCartridge="11600" OEMCost="177.5" XRCCost="133.125" />
+      <PartNumber OEMPartNumber="Q5953A magenta" XRCPartNumber="003R99739" OEMCartridge="10000" XRCCartridge="11600" OEMCost="177.5" XRCCost="133.125" />
+    </Model>
+    <Model value="CLJ 5500, 5550 series">
+      <PartNumber OEMPartNumber="C9730A black" XRCPartNumber="003R99721" OEMCartridge="13000" XRCCartridge="15200" OEMCost="166.525" XRCCost="124.8917" />
+      <PartNumber OEMPartNumber="C9731A cyan" XRCPartNumber="003R99722" OEMCartridge="12000" XRCCartridge="13400" OEMCost="233.675" XRCCost="175.2583" />
+      <PartNumber OEMPartNumber="C9732A yellow" XRCPartNumber="003R99723" OEMCartridge="12000" XRCCartridge="13400" OEMCost="233.675" XRCCost="175.2583" />
+      <PartNumber OEMPartNumber="C9733A magenta" XRCPartNumber="003R99724" OEMCartridge="12000" XRCCartridge="13400" OEMCost="233.675" XRCCost="175.2583" />
+    </Model>
+    <Model value="CLJ CP1215 series">
+      <PartNumber OEMPartNumber="CB540A black" XRCPartNumber="003R99786" OEMCartridge="2200" XRCCartridge="2400" OEMCost="50" XRCCost="37.5" />
+      <PartNumber OEMPartNumber="CB541A cyan" XRCPartNumber="003R99789" OEMCartridge="1400" XRCCartridge="1600" OEMCost="45.54167" XRCCost="34.15833" />
+      <PartNumber OEMPartNumber="CB542A yellow" XRCPartNumber="003R99787" OEMCartridge="1400" XRCCartridge="1600" OEMCost="45.54167" XRCCost="34.15833" />
+      <PartNumber OEMPartNumber="CB543A magenta" XRCPartNumber="003R99788" OEMCartridge="1400" XRCCartridge="1600" OEMCost="45.54167" XRCCost="34.15833" />
+    </Model>
+    <Model value="CLJ CP1515 series">
+      <PartNumber OEMPartNumber="CB540A black" XRCPartNumber="003R99786" OEMCartridge="2200" XRCCartridge="2400" OEMCost="50" XRCCost="37.5" />
+      <PartNumber OEMPartNumber="CB541A cyan" XRCPartNumber="003R99789" OEMCartridge="1400" XRCCartridge="1600" OEMCost="45.54167" XRCCost="34.15833" />
+      <PartNumber OEMPartNumber="CB542A yellow" XRCPartNumber="003R99787" OEMCartridge="1400" XRCCartridge="1600" OEMCost="45.54167" XRCCost="34.15833" />
+      <PartNumber OEMPartNumber="CB543A magenta" XRCPartNumber="003R99788" OEMCartridge="1400" XRCCartridge="1600" OEMCost="45.54167" XRCCost="34.15833" />
+    </Model>
+    <Model value="CLJ CP1525 series">
+      <PartNumber OEMPartNumber="CE320A black" XRCPartNumber="106R02221" OEMCartridge="2000" XRCCartridge="2100" OEMCost="47.83333" XRCCost="35.875" />
+      <PartNumber OEMPartNumber="CE321A cyan" XRCPartNumber="106R02223" OEMCartridge="1300" XRCCartridge="1500" OEMCost="45.5" XRCCost="34.125" />
+      <PartNumber OEMPartNumber="CE322A yellow" XRCPartNumber="106R02224" OEMCartridge="1300" XRCCartridge="1500" OEMCost="45.5" XRCCost="34.125" />
+      <PartNumber OEMPartNumber="CE323A magenta" XRCPartNumber="106R02222" OEMCartridge="1300" XRCCartridge="1500" OEMCost="45.5" XRCCost="34.125" />
+    </Model>
+    <Model value="CLJ CP2025 series">
+      <PartNumber OEMPartNumber="CC530A black" XRCPartNumber="003R99792" OEMCartridge="3500" XRCCartridge="3700" OEMCost="82.5" XRCCost="61.875" />
+      <PartNumber OEMPartNumber="CC531A cyan" XRCPartNumber="003R99795" OEMCartridge="2800" XRCCartridge="2900" OEMCost="77.53333" XRCCost="58.15" />
+      <PartNumber OEMPartNumber="CC532A yellow" XRCPartNumber="003R99793" OEMCartridge="2800" XRCCartridge="2900" OEMCost="77.53333" XRCCost="58.15" />
+      <PartNumber OEMPartNumber="CC533A magenta" XRCPartNumber="003R99794" OEMCartridge="2800" XRCCartridge="2900" OEMCost="77.53333" XRCCost="58.15" />
+    </Model>
+    <Model value="CLJ CM2320 series">
+      <PartNumber OEMPartNumber="CC530A black" XRCPartNumber="003R99792" OEMCartridge="3500" XRCCartridge="3700" OEMCost="82.5" XRCCost="61.875" />
+      <PartNumber OEMPartNumber="CC531A cyan" XRCPartNumber="003R99795" OEMCartridge="2800" XRCCartridge="2900" OEMCost="77.53333" XRCCost="58.15" />
+      <PartNumber OEMPartNumber="CC532A yellow" XRCPartNumber="003R99793" OEMCartridge="2800" XRCCartridge="2900" OEMCost="77.53333" XRCCost="58.15" />
+      <PartNumber OEMPartNumber="CC533A magenta" XRCPartNumber="003R99794" OEMCartridge="2800" XRCCartridge="2900" OEMCost="77.53333" XRCCost="58.15" />
+    </Model>
+    <Model value="CLJ CP3525, 3530 series">
+      <PartNumber OEMPartNumber="CE250A black" XRCPartNumber="106R01583" OEMCartridge="5000" XRCCartridge="5000" OEMCost="104.1667" XRCCost="78.125" />
+      <PartNumber OEMPartNumber="CE250X black high yield" XRCPartNumber="106R02137" OEMCartridge="10500" XRCCartridge="12600" OEMCost="123.3333" XRCCost="92.5" />
+      <PartNumber OEMPartNumber="CE251A cyan" XRCPartNumber="106R01584" OEMCartridge="7000" XRCCartridge="8500" OEMCost="167.5" XRCCost="125.625" />
+      <PartNumber OEMPartNumber="CE252A yellow" XRCPartNumber="106R01585" OEMCartridge="7000" XRCCartridge="8500" OEMCost="167.5" XRCCost="125.625" />
+      <PartNumber OEMPartNumber="CE253A magenta" XRCPartNumber="106R01586" OEMCartridge="7000" XRCCartridge="8500" OEMCost="167.5" XRCCost="125.625" />
+    </Model>
+    <Model value="CLJ CP4005 series">
+      <PartNumber OEMPartNumber="CB400A black" XRCPartNumber="003R99732" OEMCartridge="7500" XRCCartridge="7800" OEMCost="119.1667" XRCCost="89.375" />
+      <PartNumber OEMPartNumber="CB401A cyan" XRCPartNumber="003R99733" OEMCartridge="7500" XRCCartridge="8100" OEMCost="165.8333" XRCCost="124.375" />
+      <PartNumber OEMPartNumber="CB402A yellow" XRCPartNumber="003R99734" OEMCartridge="7500" XRCCartridge="8100" OEMCost="165.8333" XRCCost="124.375" />
+      <PartNumber OEMPartNumber="CB403A magenta" XRCPartNumber="003R99735" OEMCartridge="7500" XRCCartridge="8100" OEMCost="165.8333" XRCCost="124.375" />
+    </Model>
+    <Model value="CLJ CP4525 series">
+      <PartNumber OEMPartNumber="CE260X black high yield" XRCPartNumber="106R02220" OEMCartridge="17000" XRCCartridge="17000" OEMCost="168.3333" XRCCost="126.25" />
+    </Model>
+    <Model value="CLJ CP4025, CP4525, CM4540 series">
+      <PartNumber OEMPartNumber="CE260A black" XRCPartNumber="106R02185" OEMCartridge="8500" XRCCartridge="8500" OEMCost="106.6667" XRCCost="80" />
+    </Model>
+    <Model value="CLJ CP4025 series">
+      <PartNumber OEMPartNumber="CE261A cyan" XRCPartNumber="106R02217" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+      <PartNumber OEMPartNumber="CE262A yellow" XRCPartNumber="106R02219" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+      <PartNumber OEMPartNumber="CE263A magenta" XRCPartNumber="106R02218" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+    </Model>
+    <Model value="CLJ CP4525 series">
+      <PartNumber OEMPartNumber="CE260A black" XRCPartNumber="106R02185" OEMCartridge="8500" XRCCartridge="8500" OEMCost="106.6667" XRCCost="80" />
+      <PartNumber OEMPartNumber="CE261A cyan" XRCPartNumber="106R02217" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+      <PartNumber OEMPartNumber="CE262A yellow" XRCPartNumber="106R02219" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+      <PartNumber OEMPartNumber="CE263A magenta" XRCPartNumber="106R02218" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+    </Model>
+    <Model value="CLJ CM4540 series">
+      <PartNumber OEMPartNumber="CE260A black" XRCPartNumber="106R02185" OEMCartridge="8500" XRCCartridge="8500" OEMCost="106.6667" XRCCost="80" />
+      <PartNumber OEMPartNumber="CE261A cyan" XRCPartNumber="106R02217" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+      <PartNumber OEMPartNumber="CE262A yellow" XRCPartNumber="106R02219" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+      <PartNumber OEMPartNumber="CE263A magenta" XRCPartNumber="106R02218" OEMCartridge="11000" XRCCartridge="12800" OEMCost="193.3333" XRCCost="145" />
+    </Model>
+    <Model value="CLJ CP6015 series">
+      <PartNumber OEMPartNumber="CB380A black" XRCPartNumber="106R02138" OEMCartridge="16500" XRCCartridge="17500" OEMCost="150.8333" XRCCost="113.125" />
+      <PartNumber OEMPartNumber="CB381A cyan" XRCPartNumber="106R02139" OEMCartridge="21000" XRCCartridge="23500" OEMCost="236.6667" XRCCost="177.5" />
+      <PartNumber OEMPartNumber="CB382A yellow" XRCPartNumber="106R02140" OEMCartridge="21000" XRCCartridge="23500" OEMCost="236.6667" XRCCost="177.5" />
+      <PartNumber OEMPartNumber="CB383A magenta" XRCPartNumber="106R02141" OEMCartridge="21000" XRCCartridge="23500" OEMCost="236.6667" XRCCost="177.5" />
+    </Model>
+    <Model value="CLJ CM 6030, CM6040 MFP series">
+      <PartNumber OEMPartNumber="CB381A cyan" XRCPartNumber="106R02139" OEMCartridge="21000" XRCCartridge="23500" OEMCost="236.6667" XRCCost="177.5" />
+      <PartNumber OEMPartNumber="CB382A yellow" XRCPartNumber="106R02140" OEMCartridge="21000" XRCCartridge="23500" OEMCost="236.6667" XRCCost="177.5" />
+      <PartNumber OEMPartNumber="CB383A magenta" XRCPartNumber="106R02141" OEMCartridge="21000" XRCCartridge="23500" OEMCost="236.6667" XRCCost="177.5" />
+    </Model>
+    <Model value="CLJ CP5525 series">
+      <PartNumber OEMPartNumber="CE270A black" XRCPartNumber="106R02265" OEMCartridge="13500" XRCCartridge="13500" OEMCost="152.03" XRCCost="114.02" />
+      <PartNumber OEMPartNumber="CE271A cyan" XRCPartNumber="106R02266" OEMCartridge="15000" XRCCartridge="15000" OEMCost="246.43" XRCCost="184.82" />
+      <PartNumber OEMPartNumber="CE272A  yellow" XRCPartNumber="106R02267" OEMCartridge="15000" XRCCartridge="15000" OEMCost="246.43" XRCCost="184.82" />
+      <PartNumber OEMPartNumber="CE273A magenta" XRCPartNumber="106R02268" OEMCartridge="15000" XRCCartridge="15000" OEMCost="246.43" XRCCost="184.82" />
+    </Model>
+    <Model value="CLJ CP1025 series">
+      <PartNumber OEMPartNumber="CE310A black" XRCPartNumber="106R02257" OEMCartridge="1200" XRCCartridge="1200" OEMCost="35.08333" XRCCost="26.31667" />
+      <PartNumber OEMPartNumber="CE311A cyan" XRCPartNumber="106R02258" OEMCartridge="1000" XRCCartridge="1000" OEMCost="37.975" XRCCost="28.48333" />
+      <PartNumber OEMPartNumber="CE312A yellow" XRCPartNumber="106R02259" OEMCartridge="1000" XRCCartridge="1000" OEMCost="37.975" XRCCost="28.48333" />
+      <PartNumber OEMPartNumber="CE313A magenta" XRCPartNumber="106R02260" OEMCartridge="1000" XRCCartridge="1000" OEMCost="37.975" XRCCost="28.48333" />
+    </Model>
+    <Model value="CLJ CP5225 series">
+      <PartNumber OEMPartNumber="CE740A black" XRCPartNumber="106R02261" OEMCartridge="7000" XRCCartridge="10600" OEMCost="106.6667" XRCCost="80" />
+      <PartNumber OEMPartNumber="CE741A cyan" XRCPartNumber="106R02262" OEMCartridge="7300" XRCCartridge="11800" OEMCost="163.5167" XRCCost="122.6417" />
+      <PartNumber OEMPartNumber="CE742A yellow" XRCPartNumber="106R02263" OEMCartridge="7300" XRCCartridge="11800" OEMCost="163.5167" XRCCost="122.6417" />
+      <PartNumber OEMPartNumber="CE743A magenta" XRCPartNumber="106R02264" OEMCartridge="7300" XRCCartridge="11800" OEMCost="163.5167" XRCCost="122.6417" />
+    </Model>
+  </Manufacturer>
+  <Manufacturer value="Brother">
+    <Model value="HL-700 series">
+      <PartNumber OEMPartNumber="TN200" XRCPartNumber="003R99725" OEMCartridge="2200" XRCCartridge="2200" OEMCost="21.4" XRCCost="16.05" />
+      <PartNumber OEMPartNumber="DR200 drum" XRCPartNumber="003R99729" OEMCartridge="8000" XRCCartridge="8000" OEMCost="112.5" XRCCost="84.375" />
+    </Model>
+    <Model value="HL-2030 series">
+      <PartNumber OEMPartNumber="TN2000" XRCPartNumber="003R99726" OEMCartridge="2500" XRCCartridge="2500" OEMCost="45" XRCCost="33.75" />
+      <PartNumber OEMPartNumber="DR2000 drum" XRCPartNumber="003R99766" OEMCartridge="12000" XRCCartridge="12000" OEMCost="55.41667" XRCCost="41.56667" />
+    </Model>
+    <Model value="HL-2040 series">
+      <PartNumber OEMPartNumber="TN2000" XRCPartNumber="003R99726" OEMCartridge="2500" XRCCartridge="2500" OEMCost="45" XRCCost="33.75" />
+      <PartNumber OEMPartNumber="DR2000 drum" XRCPartNumber="003R99766" OEMCartridge="12000" XRCCartridge="12000" OEMCost="55.41667" XRCCost="41.56667" />
+    </Model>
+    <Model value="HL-2035 series">
+      <PartNumber OEMPartNumber="TN2005" XRCPartNumber="003R99779" OEMCartridge="1500" XRCCartridge="1500" OEMCost="34.58333" XRCCost="25.94167" />
+      <PartNumber OEMPartNumber="DR2005 drum" XRCPartNumber="003R99780" OEMCartridge="4000" XRCCartridge="4000" OEMCost="56.45833" XRCCost="42.34167" />
+    </Model>
+    <Model value="HL-2140, 2150N, 2170">
+      <PartNumber OEMPartNumber="TN2120" XRCPartNumber="003R99781" OEMCartridge="7200" XRCCartridge="7200" OEMCost="45.20833" XRCCost="33.90833" />
+    </Model>
+    <Model value="HL-2140, 2150N, 2171">
+      <PartNumber OEMPartNumber="DR2100 drum" XRCPartNumber="003R99782" OEMCartridge="12000" XRCCartridge="12000" OEMCost="58.33333" XRCCost="43.75" />
+    </Model>
+    <Model value="HL-2240, 2250, 2270 series">
+      <PartNumber OEMPartNumber="TN2220" XRCPartNumber="106R02634" OEMCartridge="2600" XRCCartridge="2600" OEMCost="41.69167" XRCCost="31.26667" />
+    </Model>
+    <Model value="HL-5130, 5140 series">
+      <PartNumber OEMPartNumber="TN3060" XRCPartNumber="003R99703" OEMCartridge="6700" XRCCartridge="6700" OEMCost="65" XRCCost="48.75" />
+      <PartNumber OEMPartNumber="DR3000 drum" XRCPartNumber="003R99708" OEMCartridge="20000" XRCCartridge="20000" OEMCost="109.1667" XRCCost="81.875" />
+    </Model>
+    <Model value="HL-5240, 5250, 5270, 5280">
+      <PartNumber OEMPartNumber="TN3170" XRCPartNumber="003R99727" OEMCartridge="7000" XRCCartridge="7000" OEMCost="70" XRCCost="52.5" />
+      <PartNumber OEMPartNumber="DR3100 drum" XRCPartNumber="003R99767" OEMCartridge="25000" XRCCartridge="25000" OEMCost="110" XRCCost="82.5" />
+    </Model>
+    <Model value="HL-5340/5370 series">
+      <PartNumber OEMPartNumber="TN3230" XRCPartNumber="106R02319" OEMCartridge="3000" XRCCartridge="3000" OEMCost="47.625" XRCCost="35.71667" />
+      <PartNumber OEMPartNumber="TN3280 high yield" XRCPartNumber="106R02320" OEMCartridge="8000" XRCCartridge="8000" OEMCost="76.525" XRCCost="57.39167" />
+      <PartNumber OEMPartNumber="DR3200 drum" XRCPartNumber="106R02321" OEMCartridge="25000" XRCCartridge="25000" OEMCost="91.25" XRCCost="68.44167" />
+    </Model>
+    <Model value="HL-6050 series">
+      <PartNumber OEMPartNumber="TN4100" XRCPartNumber="003R99728" OEMCartridge="7500" XRCCartridge="7500" OEMCost="68.33334" XRCCost="51.25" />
+      <PartNumber OEMPartNumber="DR4000 drum" XRCPartNumber="003R99730" OEMCartridge="30000" XRCCartridge="30000" OEMCost="77.5" XRCCost="58.125" />
+    </Model>
+    <Model value="HL-7050 series">
+      <PartNumber OEMPartNumber="TN5500" XRCPartNumber="003R99702" OEMCartridge="12000" XRCCartridge="12000" OEMCost="77.5" XRCCost="58.125" />
+      <PartNumber OEMPartNumber="DR5500 drum" XRCPartNumber="003R99707" OEMCartridge="40000" XRCCartridge="40000" OEMCost="71.66666" XRCCost="53.75" />
+    </Model>
+    <Model value="HL-1240 series">
+      <PartNumber OEMPartNumber="TN6600" XRCPartNumber="003R99700" OEMCartridge="6000" XRCCartridge="6000" OEMCost="63.33333" XRCCost="47.5" />
+      <PartNumber OEMPartNumber="DR6000 drum" XRCPartNumber="003R99705" OEMCartridge="20000" XRCCartridge="20000" OEMCost="109.1667" XRCCost="81.875" />
+    </Model>
+    <Model value="HL-1650 series">
+      <PartNumber OEMPartNumber="TN7600" XRCPartNumber="003R99701" OEMCartridge="6500" XRCCartridge="6500" OEMCost="63.33333" XRCCost="47.5" />
+      <PartNumber OEMPartNumber="DR7000 drum" XRCPartNumber="003R99706" OEMCartridge="20000" XRCCartridge="20000" OEMCost="109.1667" XRCCost="81.875" />
+    </Model>
+    <Model value="MFC 9030, 9070 series">
+      <PartNumber OEMPartNumber="TN8000" XRCPartNumber="003R99704" OEMCartridge="2200" XRCCartridge="2200" OEMCost="23.33333" XRCCost="17.5" />
+      <PartNumber OEMPartNumber="DR8000 drum" XRCPartNumber="003R99709" OEMCartridge="8000" XRCCartridge="8000" OEMCost="122.5" XRCCost="91.875" />
+    </Model>
+  </Manufacturer>
+  <Manufacturer value="Kyocera">
+    <Model value="FS 1000, 1000+, 1010">
+      <PartNumber OEMPartNumber="TK-17" XRCPartNumber="003R99744" OEMCartridge="6000" XRCCartridge="6000" OEMCost="80" XRCCost="60" />
+    </Model>
+    <Model value="FS 1050">
+      <PartNumber OEMPartNumber="TK-17" XRCPartNumber="003R99744" OEMCartridge="6000" XRCCartridge="6000" OEMCost="80" XRCCost="60" />
+    </Model>
+    <Model value="FS 1018MFP">
+      <PartNumber OEMPartNumber="TK-18" XRCPartNumber="003R99745" OEMCartridge="7200" XRCCartridge="7200" OEMCost="66.825" XRCCost="50.11666" />
+    </Model>
+    <Model value="FS 1020, 1020D">
+      <PartNumber OEMPartNumber="TK-18" XRCPartNumber="003R99745" OEMCartridge="7200" XRCCartridge="7200" OEMCost="66.825" XRCCost="50.11666" />
+    </Model>
+    <Model value="FS 1920, 1920N, 1920DN">
+      <PartNumber OEMPartNumber="TK-55" XRCPartNumber="003R99747" OEMCartridge="15000" XRCCartridge="15000" OEMCost="80.4" XRCCost="60.3" />
+    </Model>
+    <Model value="FS 3820, 3830 series">
+      <PartNumber OEMPartNumber="TK-65" XRCPartNumber="003R99749" OEMCartridge="20000" XRCCartridge="20000" OEMCost="89.79166" XRCCost="67.34167" />
+    </Model>
+    <Model value="FS 9100DN, 9120DN">
+      <PartNumber OEMPartNumber="TK-70" XRCPartNumber="003R99750" OEMCartridge="40000" XRCCartridge="40000" OEMCost="114.1667" XRCCost="85.625" />
+    </Model>
+    <Model value="FS 9500DN, 9520DN">
+      <PartNumber OEMPartNumber="TK-70" XRCPartNumber="003R99750" OEMCartridge="40000" XRCCartridge="40000" OEMCost="114.1667" XRCCost="85.625" />
+    </Model>
+    <Model value="FS-720">
+      <PartNumber OEMPartNumber="TK-110" XRCPartNumber="003R99772" OEMCartridge="6000" XRCCartridge="6000" OEMCost="64.73333" XRCCost="48.55" />
+    </Model>
+    <Model value="FS-820">
+      <PartNumber OEMPartNumber="TK-110" XRCPartNumber="003R99772" OEMCartridge="6000" XRCCartridge="6000" OEMCost="64.73333" XRCCost="48.55" />
+    </Model>
+    <Model value="FS-920  ">
+      <PartNumber OEMPartNumber="TK-110" XRCPartNumber="003R99772" OEMCartridge="6000" XRCCartridge="6000" OEMCost="64.73333" XRCCost="48.55" />
+    </Model>
+    <Model value="FS-1016MFP   ">
+      <PartNumber OEMPartNumber="TK-110" XRCPartNumber="003R99772" OEMCartridge="6000" XRCCartridge="6000" OEMCost="64.73333" XRCCost="48.55" />
+    </Model>
+    <Model value="FS-1116MFP     ">
+      <PartNumber OEMPartNumber="TK-110" XRCPartNumber="003R99772" OEMCartridge="6000" XRCCartridge="6000" OEMCost="64.73333" XRCCost="48.55" />
+    </Model>
+    <Model value="FS-1030D, 1030DN      ">
+      <PartNumber OEMPartNumber="TK-120" XRCPartNumber="003R99773" OEMCartridge="7200" XRCCartridge="7200" OEMCost="66.825" XRCCost="50.11666" />
+    </Model>
+    <Model value="FS-1300">
+      <PartNumber OEMPartNumber="TK-130" XRCPartNumber="003R99783" OEMCartridge="7200" XRCCartridge="7200" OEMCost="66.825" XRCCost="50.11666" />
+    </Model>
+    <Model value="FS-1100, 1100N     ">
+      <PartNumber OEMPartNumber="TK-140" XRCPartNumber="003R99784" OEMCartridge="4000" XRCCartridge="4000" OEMCost="51.15833" XRCCost="38.36666" />
+    </Model>
+    <Model value="FS-2000, 2000DN, 2000DTN      ">
+      <PartNumber OEMPartNumber="TK-310" XRCPartNumber="003R99774" OEMCartridge="12000" XRCCartridge="12000" OEMCost="71" XRCCost="53.25" />
+    </Model>
+    <Model value="FS-3900, 3900DN, 3900DTN     ">
+      <PartNumber OEMPartNumber="TK-320" XRCPartNumber="003R99775" OEMCartridge="15000" XRCCartridge="15000" OEMCost="73.09167" XRCCost="54.81667" />
+    </Model>
+    <Model value="FS-4000">
+      <PartNumber OEMPartNumber="TK-330" XRCPartNumber="003R99776" OEMCartridge="20000" XRCCartridge="20000" OEMCost="77.26667" XRCCost="57.95" />
+    </Model>
+    <Model value="FS-9130">
+      <PartNumber OEMPartNumber="TK-710" XRCPartNumber="003R99785" OEMCartridge="40000" XRCCartridge="40000" OEMCost="123.2083" XRCCost="92.40833" />
+    </Model>
+    <Model value="FS-9530    ">
+      <PartNumber OEMPartNumber="TK-710" XRCPartNumber="003R99785" OEMCartridge="40000" XRCCartridge="40000" OEMCost="123.2083" XRCCost="92.40833" />
+    </Model>
+  </Manufacturer>
+  <Manufacturer value="Lexmark">
+    <Model value="E120">
+      <PartNumber OEMPartNumber="12036SE" XRCPartNumber="106R01560" OEMCartridge="2000" XRCCartridge="2000" OEMCost="49.58333" XRCCost="37.19167" />
+    </Model>
+    <Model value="E230/E232 series ">
+      <PartNumber OEMPartNumber="24035SA" XRCPartNumber="106R01549" OEMCartridge="2500" XRCCartridge="2500" OEMCost="50.66667" XRCCost="38" />
+    </Model>
+    <Model value="E240 series ">
+      <PartNumber OEMPartNumber="24035SA" XRCPartNumber="106R01549" OEMCartridge="2500" XRCCartridge="2500" OEMCost="50.66667" XRCCost="38" />
+    </Model>
+    <Model value="E330 series ">
+      <PartNumber OEMPartNumber="24035SA" XRCPartNumber="106R01549" OEMCartridge="2500" XRCCartridge="2500" OEMCost="50.66667" XRCCost="38" />
+    </Model>
+    <Model value="E340 series ">
+      <PartNumber OEMPartNumber="24035SA" XRCPartNumber="106R01549" OEMCartridge="2500" XRCCartridge="2500" OEMCost="50.66667" XRCCost="38" />
+    </Model>
+    <Model value="E250">
+      <PartNumber OEMPartNumber="E250A21E" XRCPartNumber="106R01552" OEMCartridge="3500" XRCCartridge="3500" OEMCost="62.5" XRCCost="46.875" />
+    </Model>
+    <Model value="E350, E352">
+      <PartNumber OEMPartNumber="E250A21E" XRCPartNumber="106R01552" OEMCartridge="3500" XRCCartridge="3500" OEMCost="62.5" XRCCost="46.875" />
+      <PartNumber OEMPartNumber="E352H21E" XRCPartNumber="106R01553" OEMCartridge="9000" XRCCartridge="9000" OEMCost="123.3333" XRCCost="92.5" />
+    </Model>
+    <Model value="E450">
+      <PartNumber OEMPartNumber="E450A21E" XRCPartNumber="106R01550" OEMCartridge="6000" XRCCartridge="6000" OEMCost="73.75" XRCCost="55.31667" />
+      <PartNumber OEMPartNumber="E450H21E high yield" XRCPartNumber="106R01551" OEMCartridge="11000" XRCCartridge="11000" OEMCost="117.5" XRCCost="88.125" />
+    </Model>
+    <Model value="T420">
+      <PartNumber OEMPartNumber="12A7315" XRCPartNumber="106R01554" OEMCartridge="10000" XRCCartridge="10000" OEMCost="130.8333" XRCCost="98.125" />
+    </Model>
+    <Model value="T430">
+      <PartNumber OEMPartNumber="12A8325" XRCPartNumber="106R01561" OEMCartridge="12000" XRCCartridge="12000" OEMCost="105" XRCCost="78.75" />
+    </Model>
+    <Model value="T520, T522">
+      <PartNumber OEMPartNumber="12A6735" XRCPartNumber="106R01555" OEMCartridge="20000" XRCCartridge="20000" OEMCost="209.1667" XRCCost="156.875" />
+    </Model>
+    <Model value="T620, T622">
+      <PartNumber OEMPartNumber="12A6765" XRCPartNumber="106R01556" OEMCartridge="30000" XRCCartridge="30000" OEMCost="248.3333" XRCCost="186.25" />
+    </Model>
+    <Model value="T630">
+      <PartNumber OEMPartNumber="12A7362" XRCPartNumber="106R01557" OEMCartridge="21000" XRCCartridge="21000" OEMCost="220" XRCCost="165" />
+    </Model>
+    <Model value="T632, T634">
+      <PartNumber OEMPartNumber="12A7365" XRCPartNumber="106R01558" OEMCartridge="32000" XRCCartridge="32000" OEMCost="237.5" XRCCost="178.125" />
+    </Model>
+    <Model value="T640, T642, T644">
+      <PartNumber OEMPartNumber="64036HE" XRCPartNumber="106R01562" OEMCartridge="21000" XRCCartridge="21000" OEMCost="215" XRCCost="161.25" />
+    </Model>
+    <Model value="T644">
+      <PartNumber OEMPartNumber="64436XE" XRCPartNumber="106R01559" OEMCartridge="32000" XRCCartridge="32000" OEMCost="230.8333" XRCCost="173.125" />
+    </Model>
+    <Model value="T650, T652, T654, T656">
+      <PartNumber OEMPartNumber="T650H21E" XRCPartNumber="106R02336" OEMCartridge="25000" XRCCartridge="25000" OEMCost="252.4" XRCCost="189.3" />
+    </Model>
+    <Model value="T654, T656">
+      <PartNumber OEMPartNumber="T654X21E" XRCPartNumber="106R02337" OEMCartridge="36000" XRCCartridge="36000" OEMCost="271.475" XRCCost="203.6083" />
+    </Model>
+    <Model value="X630">
+      <PartNumber OEMPartNumber="12A7362" XRCPartNumber="106R01557" OEMCartridge="21000" XRCCartridge="21000" OEMCost="220" XRCCost="165" />
+    </Model>
+    <Model value="E260">
+      <PartNumber OEMPartNumber="E260A21E" XRCPartNumber="106R02652" OEMCartridge="3500" XRCCartridge="3500" OEMCost="63.39167" XRCCost="47.54167" />
+    </Model>
+    <Model value="E360">
+      <PartNumber OEMPartNumber="E360H21E" XRCPartNumber="106R02653" OEMCartridge="9000" XRCCartridge="9000" OEMCost="117.825" XRCCost="88.36667" />
+    </Model>
+    <Model value="E460">
+      <PartNumber OEMPartNumber="E460X21E" XRCPartNumber="106R02654" OEMCartridge="15000" XRCCartridge="15000" OEMCost="153.15" XRCCost="114.8667" />
+    </Model>
+  </Manufacturer>
+</Reseller>

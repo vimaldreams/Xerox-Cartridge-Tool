@@ -1,0 +1,30 @@
+C:\Users\vpanneer\Desktop\6366_Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.dll
+C:\Users\vpanneer\Desktop\6366_Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.pdb
+C:\Users\vpanneer\Desktop\6366_Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vpanneer\Desktop\6366_Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.dll
+C:\Users\vpanneer\Desktop\6366_Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.pdb
+C:\Users\vimalkumar\Desktop\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.dll
+C:\Users\vimalkumar\Desktop\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.pdb
+C:\Users\vimalkumar\Desktop\XeroxVPTool\XeroxVPTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vimalkumar\Desktop\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.dll
+C:\Users\vimalkumar\Desktop\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.pdb
+C:\_Development\Source\Projects\Xerox\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.dll
+C:\_Development\Source\Projects\Xerox\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.pdb
+C:\_Development\Source\Projects\Xerox\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\ResolveAssemblyReference.cache
+C:\_Development\Source\Projects\Xerox\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.dll
+C:\_Development\Source\Projects\Xerox\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.pdb
+C:\_Development\.Net Projects\VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.dll
+C:\_Development\.Net Projects\VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.pdb
+C:\_Development\.Net Projects\VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\ResolveAssemblyReference.cache
+C:\_Development\.Net Projects\VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.dll
+C:\_Development\.Net Projects\VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.pdb
+Z:\6366_Xerox_Supplies_VP_Tool\Production\Technical\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.dll
+Z:\6366_Xerox_Supplies_VP_Tool\Production\Technical\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\bin\XeroxVPTool.pdb
+Z:\6366_Xerox_Supplies_VP_Tool\Production\Technical\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\ResolveAssemblyReference.cache
+Z:\6366_Xerox_Supplies_VP_Tool\Production\Technical\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.dll
+Z:\6366_Xerox_Supplies_VP_Tool\Production\Technical\Xerox Supplies VP Tool\XeroxVPTool\XeroxVPTool\obj\Debug\XeroxVPTool.pdb
+C:\_Development\Source\Projects\Xerox\Supplies VP Tool\trunk\XeroxVPTool\bin\XeroxVPTool.dll
+C:\_Development\Source\Projects\Xerox\Supplies VP Tool\trunk\XeroxVPTool\bin\XeroxVPTool.pdb
+C:\_Development\Source\Projects\Xerox\Supplies VP Tool\trunk\XeroxVPTool\obj\Debug\ResolveAssemblyReference.cache
+C:\_Development\Source\Projects\Xerox\Supplies VP Tool\trunk\XeroxVPTool\obj\Debug\XeroxVPTool.dll
+C:\_Development\Source\Projects\Xerox\Supplies VP Tool\trunk\XeroxVPTool\obj\Debug\XeroxVPTool.pdb

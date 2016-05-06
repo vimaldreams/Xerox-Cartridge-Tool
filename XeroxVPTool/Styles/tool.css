@@ -1,0 +1,304 @@
+﻿
+html, body 
+{
+    margin: 0 auto; /* Center align for Good browsers like Firefox, Opera, Netscape */
+}
+
+.module
+{
+    margin-bottom: 20px;
+    min-height: 1px;
+}
+
+.userdetails {
+     color: #cb4314;
+}
+
+
+.your_logo
+{   
+    position: relative;
+    float: left;
+    /*margin-left: 100px;*/
+    width: 200px;
+    height: 125px;
+}
+
+.xerox_logo
+{
+    /*margin-right: -80px;*/
+    position: relative;
+    float: right;
+}
+
+
+a{ text-decoration: none;}
+/*Styling for the Tool developed*/
+
+
+.introbutton {
+    position: relative;
+    width: 980px;
+    height: 100px;
+    background:url(../Images/base.jpg) no-repeat;
+    padding-bottom: 10px;
+}
+
+.addselection #skipbutton a:link, a:visited, a:hover, a:active {
+    color: transparent;
+}
+
+.skipbutton {
+    top: 200px;
+    /*left: 100px;*/
+    color: white;
+}
+
+.backimage {
+     background:url(../Images/base.jpg) no-repeat;
+}
+
+.design{ height: auto;}
+
+.templatepage {
+    position: relative;
+    width: 980px;
+    /*left: 100px;*/
+}
+
+.savingsicon {
+    padding-left: 400px;
+    width: 420px;
+}
+
+.tbtopheader {
+    padding-right: 40px;
+}
+.headertext {
+    font: bold;
+    font-family: Arial;
+    color: #cb4314;
+}
+
+#headerleftttext  
+{
+    padding-left: 10px;
+    float: left;
+    color: black;
+    font-size: 18px;
+}
+
+#exptotsave {
+    font-size: 18px;
+}
+
+#lbltotalsavings {
+    font: bold;
+    font-size: 40px;
+    font-family: Arial;
+}
+
+.savingstext {
+    color: black;
+    font-size: 13px;
+}
+
+.iconlinks 
+{
+    font-family: Arial;
+    font-size: 14px;
+    float: right;
+    width: 200px;
+    margin-top: -75px;
+}
+
+.iconlinks a { color: black;}
+
+.errortext  {
+    font-family: Arial;
+    font-size: 14px;
+    color: red;
+    /*height: 5px;*/
+    height: 20px;
+}
+
+#lbltotalsavings {
+    border: 3px solid #cb4314;
+    width: 122px;
+    height: 30px;
+    text-align: center;
+    color: #cb4314;
+}
+
+button{
+    outline: none;
+}
+
+.arrow {
+    float: left;
+    padding-right: 10px;
+}
+
+.userselection 
+{
+    padding-left: 5px;
+    padding-top: 10px;
+    position: relative;
+    width: 980px;
+    background:url(../Images/selection-bar-1.jpg) no-repeat;
+    padding-bottom: 20px;
+    left: 10px;
+    /*top: 20px;*/
+}
+
+.selection1{
+    float: left;
+    padding-right: 10px;
+}
+.selection2 {
+    float: left;
+    padding-right: 10px;
+}
+.selection3 {
+    float: left;
+    padding-right: 0px;
+}
+
+.dropdown {
+    width: 200px;
+    height: 25px;
+    font-size: 14px;
+    font-family: "Arial";
+    z-index:-1;
+}
+
+.addselection {
+    width: 175px;
+    float: left;
+    height: 35px;
+    display: block;
+    z-index: 9999;
+    background-image: (Images/add-part-en.jpg);
+    color: transparent;
+    padding: 0px 0px 0px 12px;
+     margin-top: -5px;
+}
+.replayintro {
+    width: 175px;
+    float: left;
+    height: 35px;
+    display: block;
+    z-index: 9999;
+    background-image: (Images/add-part-en.jpg);
+    color: transparent;
+    margin-top: 0px;
+    margin-left: 8px;
+}
+
+.headerselection {
+    padding-bottom: 15px;
+}
+
+.divselectedrows 
+{
+    position: relative;
+    /*height: 50px;*/
+    /*padding-top: 10px;*/
+}
+
+.tbselectedrows 
+{
+    position: relative;
+    border-collapse: collapse;
+    /*margin-left: -30px;*/
+    width:980px;
+}
+
+.divselectedrows .tbselectedrows .trheader {
+    /*background:url(../Images/selection-bar-1.jpg) repeat bottom;*/
+    width: 500px;
+    overflow: hidden;
+    padding-left: 100px;
+    padding-bottom: 10px;
+}
+
+.tbselectedrows .trheader {
+   /*padding: 20px 0px 20px 100px;*/
+}
+
+.trheader 
+{
+    position: relative;
+    height: 30px;
+    /*top: 20px;*/
+    
+}
+
+.thmanufacturer, .thmodel, .thpartnumber, .thcartridge, .thmonthlysaving {
+   border-right: 1px solid gray;
+    font-family: "Arial";
+    font-weight: normal;
+    font-size: 14px;
+    color: gray;
+    position: relative;
+    
+}
+
+.tdmanufacturer, .tdmodel, .tdpartnumber, .tdcartridge  {
+   
+    font-family: "Arial";
+    font-weight: normal;
+    font-size: 17px;
+    
+}
+   
+.thmanufacturer, .tdmanufacturer {
+    width: 100px;
+    text-align:center;
+}
+.thmodel, .tdmodel {
+    width: 100px;
+    text-align:center;
+} 
+.thpartnumber, .tdpartnumber {
+    width: 100px;
+    text-align:center;
+} 
+.thcartridge, .tdcartridge {
+    width: 100px;
+    text-align:center;
+} 
+.thmonthlysaving, .tdmonthlysaving {
+   width: 120px;
+   text-align:center;
+   color: #cb4314;
+  
+}
+
+.tdmonthlysaving {
+    font-family: "Arial";
+    font-size: 24px; 
+}
+.thdelete, .tddelete {
+    width: 100px;
+    position: relative;
+}
+.tddelete img {
+    padding-left: 20px;
+}
+
+.cartridgesselection {
+    width: 50px;
+    text-align: center;
+}
+  
+.tdcartridge img {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.tbselectedrows #trappendedrow {
+    background:url(../Images/resultsbar.jpg) repeat;
+    padding: 20px 0px 20px 100px;
+    overflow: hidden;
+ }
